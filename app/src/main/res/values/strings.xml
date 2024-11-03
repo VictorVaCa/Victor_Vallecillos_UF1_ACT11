@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Victor_Vallecillos_UF1_ACT11</string>
+    <string name="nameField">Nom</string>
+    <string name="lastNameField">Cognom</string>
+    <string name="ageField">Edat</string>
+    <string name="userField">Usuari</string>
+    <string name="passwordField">Contrassenya</string>
+    <string name="emailField">Email</string>
+    <string name="phoneField">Número de telèfon</string>
+    <string name="genre">Gènere</string>
+    <string name="male">Home</string>
+    <string name="female">Dona</string>
+    <string name="registerButton">Enviar</string>
+    <string name="changeLinearLayout">Anar al linear layout</string>
+    <string name="changeRelativeLayout">Anar al relative layout</string>
+    <string name="changeConstraintLayout">Anar al constraint layout</string>
+</resources>
